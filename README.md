@@ -1,2 +1,10 @@
 # fun-with-foods-neogcamp
-Created with CodeSandbox
+# Problem Statement
+
+- Create Fun with Foods. 
+- A simple emoji interpreter.
+
+# Technology used
+
+- ReactJS
+
